@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying in Computer Science, University of Brawijaya<br>🤝 I’m looking for team work in software development<br>🌱 I’m currently learning back end development<br>❤🥰 Fun fact : I am really falling in love with a girl in the same faculty as me
+🔭 I’m currently studying in Computer Science, University of Brawijaya<br>🤝 I’m looking for work team in software development<br>🌱 I’m currently learning back end development<br>❤🥰 Fun fact : I am really falling in love with a girl in the same faculty as me
 
 
 ## 🌐 Socials:
