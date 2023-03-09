@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying in Computer Science, University of Brawijaya<br>🤝 I’m looking for work team in software development<br>🌱 I’m currently learning back end development<br>❤🥰 Fun fact : I am really falling in love with a girl in the same faculty as me
+🔭 I’m currently studying in Computer Science, University of Brawijaya<br>🤝 I’m looking for work team in software development<br>🌱 I’m currently learning back end development, especially using tech stack on Node JS<br>❤🥰 Fun fact : I am really falling in love with a girl in the same faculty as me
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_ridhailham/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ridha-ilham-adi-setyawan-63b081256/) 
