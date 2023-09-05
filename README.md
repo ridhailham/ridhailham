@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently studying in Computer Science, University of Brawijaya<br>🤝 I am m looking for experience in Backend Development<br>🌱 I am m currently learning back end development, especially using tech stack on Node JS<br> Fun fact : I am m not a weeaboo
+🔭 I am currently studying in Computer Science, University of Brawijaya<br>🤝 I am looking for experience in Backend Development<br>🌱 I am m currently learning back end development, especially using tech stack on Node JS<br> Fun fact : I am m not a weeaboo
 
 
 ## 🌐 Socials:
