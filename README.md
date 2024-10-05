@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently studying in Computer Science, University of Brawijaya<br>🤝 I am looking for experience in Web3 and Machine Learning<br> Learning full-stack development, especially using tech stack on React JS, Laravel/PHP, Node JS, and Flutter<br> Learning Machine Learning using Pandas, Numpy, Sklearn<br> Learning Web3 using Solidity and Rust<br> 🌱 Fun fact : I am not a weeaboo
+🔭 I am currently studying in Computer Science, University of Brawijaya<br>🤝 I am looking for experience in Web3 and Machine Learning<br> Learning Web3 using Solidity and Rust<br>  Learning full-stack development, especially using tech stack on React JS, Laravel/PHP, Node JS, and Flutter<br> Learning Machine Learning using Pandas, Numpy, Sklearn<br> 🌱 Fun fact : I am not a weeaboo
 
 
 ## 🌐 Socials:
