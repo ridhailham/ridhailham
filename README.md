@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently studying in Computer Science, University of Brawijaya<br>🤝 I am looking for experience in Software Development<br>  Learning full-Using tech stack on React JS, Javascript/Typescript, Laravel/PHP, Node JS, Go, Python and Flutter<br> Learning Machine Learning using Pandas, Numpy, Sklearn<br> 🌱 Fun fact : I am not a weeaboo
+🔭 I am currently studying in Computer Science, University of Brawijaya<br>🤝 I am looking for experience in Software Development<br> Using tech stack on React JS, Javascript/Typescript, Laravel/PHP, Node JS, Go, Python and Flutter<br> Learning Machine Learning using Pandas, Numpy, Sklearn<br> 🌱 Fun fact : I am not a weeaboo
 
 
 ## 🌐 Socials:
